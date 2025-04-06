@@ -1,4 +1,5 @@
 📊 Bank Marketing Project
+
 This project focuses on analyzing and modeling the Bank Marketing Dataset from a Portuguese banking institution. The primary goal is to predict whether a client will subscribe to a term deposit (y) based on various features collected during telemarketing campaigns.
 
 🔍 Project Overview
